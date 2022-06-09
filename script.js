@@ -36,4 +36,4 @@ control = () =>{
 
 btn.addEventListener('click', control)
 
-control()
+window.addEventListener('load', control)
